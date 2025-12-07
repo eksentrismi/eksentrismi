@@ -5,7 +5,3 @@
     📟 Languages I'm still studying/learning: C++, C#, SQL, Javascript
     ⚡ Fun fact: My favorite drink is Pepsi Max... I can't even count how many liters of it I consume during a week, lol.
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/2eb38397-d8ca-4162-8e7f-18a270df8bef/thumbnail" >
-</p>
-
